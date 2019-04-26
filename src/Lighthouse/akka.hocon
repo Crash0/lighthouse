@@ -1,5 +1,5 @@
 lighthouse{
-  actorsystem: "actor-system" #POPULATE NAME OF YOUR ACTOR SYSTEM HERE
+  actorsystem: "LetsTalk-system" #POPULATE NAME OF YOUR ACTOR SYSTEM HERE
 }
 
 # See petabridge.cmd configuration options here: https://cmd.petabridge.com/articles/install/host-configuration.html
